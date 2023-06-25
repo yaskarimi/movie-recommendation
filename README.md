@@ -7,7 +7,8 @@ Movie recommender system based on:
 
 ## How to run?
 
-1. Download the data from https://drive.google.com/drive/folders/10-cCbvE6c655K7L3J_sFCAJj0_2Ay7um?usp=drive_link
+1. Download the data from https://drive.google.com/drive/folders/10-cCbvE6c655K7L3J_sFCAJj0_2Ay7um?usp=drive_link or
+ https://www.dropbox.com/s/6xf9o4azjulmcto/Data.zip?dl=0
 
 2. Run the 'data-cleaning-wrangling-sampling.ipynb'
 3. Starting with 'Content_base.ipynb' .
